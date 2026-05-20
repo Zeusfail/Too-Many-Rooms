@@ -1,5 +1,6 @@
 #include "pch.h"
 #include <Windows.h>
+#include <cstdint>
 #include <cstdlib>
 #include <cstdio>
 

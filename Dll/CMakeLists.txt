@@ -14,6 +14,6 @@ target_compile_definitions(NoRestrictionsConstruction PRIVATE
 target_link_libraries(NoRestrictionsConstruction PRIVATE kernel32)
 
 set_target_properties(NoRestrictionsConstruction PROPERTIES
-    OUTPUT_NAME "NoRestrictionsConstruction"
+    OUTPUT_NAME "main"
     SUFFIX ".dll"
 )
