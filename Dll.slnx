@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Dll/Dll.vcxproj" Id="1af5e3bb-6ef8-4abc-b48c-3af63d847f61">
+    <BuildType Solution="Debug|x64" Project="Release" />
+  </Project>
+</Solution>
