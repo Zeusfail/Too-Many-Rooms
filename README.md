@@ -1,19 +1,5 @@
 # Too Many Rooms Free Building
 
-> 🚧 **EXPERIMENTAL RELEASE READ BEFORE INSTALLING** 🚧
-
----
-
-## ⚠️ WARNING
-
-This mod has only been tested by myself on **Microsoft Store / Game Pass** and **Steam**.  
-It has **NOT** gone through extended testing or a full release protocol as I usually do.  
-Crashes, bugs, and unexpected behavior are possible.  
-**USE AT YOUR OWN RISK** and please report your experience in the comments!
-
-### 🙋 TESTERS WANTED
-Your feedback is essential to make this stable. Every report helps. 🙏
-
 ---
 
 ## Description
