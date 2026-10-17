@@ -103,7 +103,7 @@ Available on [GitHub](https://github.com/zeusfail/Too-Many-Rooms) if you enjoy t
 
 [![AI assistance: level 1/5](https://img.shields.io/badge/AI_assistance-level_1%2F5-blue)](https://github.com/Zeusfail/Zeusfail/blob/main/AI-CHARTER.md)
 
-Built with AI assistance (Qwen 3.6, level 1/5). The AI only explained how to approach this kind of project (reverse engineering tools, writing a DLL); all the code is mine. Reviewed and validated by Zayla (Zeusfail). Details: [AI transparency charter](https://github.com/Zeusfail/Zeusfail/blob/main/AI-CHARTER.md) (in French).
+Built with AI assistance (Qwen 3.6, level 1/5). The AI only explained how to approach this kind of project (reverse engineering tools, writing a DLL); all the code is mine. Reviewed and validated by Zayla (Zeusfail). Details: [AI transparency charter](https://github.com/Zeusfail/Zeusfail/blob/main/AI-CHARTER.md).
 
 ---
 
